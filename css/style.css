@@ -1,0 +1,8 @@
+.subtitle-column {margin-top: -17px;}
+.subtitle-row {margin-bottom: 16px;}
+.maps-row {margin-bottom: 16px;}
+#map-canvas { height: 250px; margin: 0; padding: 0;}
+.page-header a {
+    color: #000000;
+    text-decoration: none;
+}
